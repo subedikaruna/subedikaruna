@@ -1,8 +1,9 @@
 ## 💫 About Me:
-<br><br>👋 Hi, I'm Karuna Subedi<br><br>🚀 Currently building AI-driven web apps with FastAPI, Django, and Google Gemini SDK.<br>- 🪖 Developing real-time computer vision models using YOLO, OpenCV, and PyTorch.<br>- 💡 Interested in microservices, generative AI, function calling, and interactive UI dashboards (Streamlit, Tailwind CSS).<br><br>
-
 <img src="Animated_woman_smiling_and_nodding_20260929001034.gif" alt="Karuna Subedi Animated Avatar" width="300" />
-<br><br>
+
+👋 Hi, I'm Karuna Subedi<br><br>🚀 Currently building AI-driven web apps with FastAPI, Django, and Google Gemini SDK.<br>- 🪖 Developing real-time computer vision models using YOLO, OpenCV, and PyTorch.<br>- 💡 Interested in microservices, generative AI, function calling, and interactive UI dashboards (Streamlit, Tailwind CSS).<br><br>
+
+
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/karunasubedi1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/techwithkaruna) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karuna-subedi-63471b239/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@techwithkaruna) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karuna.subedi.karuna@gmail.com) 
